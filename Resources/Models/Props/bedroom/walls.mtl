@@ -1,0 +1,13 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 1
+
+newmtl 02___Default
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.302000 0.772500 0.992200
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd -s 0.000000 0.000000 0.000000 wall.jpg
